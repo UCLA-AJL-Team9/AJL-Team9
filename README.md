@@ -29,8 +29,6 @@
 
 ## **👩🏽‍💻 Setup & Execution**
 
-**Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
-
 ```bash
 # Clone the repository
 git clone https://github.com/your-team/dermatology-ai-ajl.git
