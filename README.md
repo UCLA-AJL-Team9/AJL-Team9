@@ -51,11 +51,7 @@ jupyter notebook Copy_of_AJL_Starter_Notebook.ipynb
 
 ## **🏗️ Project Overview**
 
-**Describe:**
-
-* The Kaggle competition and its connection to the Break Through Tech AI Program
-* The objective of the challenge
-* The real-world significance of the problem and the potential impact of your work
+This project is part of the AJL 2025 Kaggle Competition, run in collaboration with Break Through Tech AI. The goal is to build a dermatology classifier that works well across a wide range of skin tones, addressing fairness and bias in AI-driven healthcare.
 
 ---
 
@@ -63,9 +59,10 @@ jupyter notebook Copy_of_AJL_Starter_Notebook.ipynb
 
 **Describe:**
 
-* The dataset(s) used (i.e., the data provided in Kaggle \+ any additional sources)
-* Data exploration and preprocessing approaches
-* Challenges and assumptions when working with the dataset(s)
+* Dataset: Dermatology images and metadata from the Kaggle competition (train.csv, test.csv)
+* Explored class distributions and imbalances
+* Planned data augmentation to expand representation
+* Identified potential fairness gaps due to uneven sample counts per condition
 
 **Potential visualizations to include:**
 
@@ -75,11 +72,10 @@ jupyter notebook Copy_of_AJL_Starter_Notebook.ipynb
 
 ## **🧠 Model Development**
 
-**Describe (as applicable):**
-
-* Model(s) used (e.g., CNN with transfer learning, regression models)
-* Feature selection and Hyperparameter tuning strategies
-* Training setup (e.g., % of data for training/validation, evaluation metric, baseline performance)
+* Used CNN - sequential model with Conv2D and MaxPooling layers
+* Data preprocessing with rescaling, resizing, and augmentation
+* Training on ~80% of data, validating on ~20%
+* Evaluation metric: Accuracy
 
 ---
 
