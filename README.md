@@ -55,8 +55,6 @@ This project is part of the AJL 2025 Kaggle Competition, run in collaboration wi
 
 ## **📊 Data Exploration**
 
-**Describe:**
-
 * Dataset: Dermatology images and metadata from the Kaggle competition (train.csv, test.csv)
 * Explored class distributions and imbalances 
 * Planned data augmentation to expand representation
