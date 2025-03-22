@@ -64,9 +64,7 @@ This project is part of the AJL 2025 Kaggle Competition, run in collaboration wi
    * There is a risk of model bias towards conditions with more images or conditions more commonly represented
    * The same goes for uneven image distribution across skin tones - darker skin tones were underrepresented and may not be classified as accurately by the model
 
-**Potential visualizations to include:**
-
-* Plots, charts, heatmaps, feature visualizations, sample dataset images
+![Alt text](graph.png)
 
 ---
 
