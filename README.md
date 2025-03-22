@@ -16,8 +16,6 @@
 
 ## **🎯 Project Highlights**
 
-**Example:**
-
 * Built a Convolutional Neural Network using TensorFlow/Keras to classify dermatological conditions  
 * Implemented data augmentation techniques to improve generalization and address skin tone representation  
 * Planned fairness evaluation using performance across different skin tone groups  
