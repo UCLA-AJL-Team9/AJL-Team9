@@ -49,7 +49,7 @@ jupyter notebook Copy_of_AJL_Starter_Notebook.ipynb
 
 ## **🏗️ Project Overview**
 
-This project is part of the AJL 2025 Kaggle Competition, run in collaboration with Break Through Tech AI. The goal is to build a dermatology classifier that works well across a wide range of skin tones, addressing fairness and bias in AI-driven healthcare.
+This project is part of the AJL 2025 Kaggle Competition, run in collaboration with Break Through Tech AI. The goal was to build a dermatology classifier that takes into account a wide range of skin tones, addressing fairness and bias in AI-driven healthcare.
 
 ---
 
