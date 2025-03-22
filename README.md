@@ -91,12 +91,13 @@ This project is part of the AJL 2025 Kaggle Competition, run in collaboration wi
 
 ## **🖼️ Impact Narrative**
 
-1. What steps did you take to address [model fairness](https://haas.berkeley.edu/wp-content/uploads/What-is-fairness_-EGAL2.pdf)?
+### Model Fairness
+
 * Applied data augmentation to improve representation of under-sampled skin tones
 * Plan to use a validation strategy that measures performance across different groups
 * Incorporated fairness in evaluation planning
 
-2. What broader impact could your work have?
+### Broader Impact
 * Enhances equitable AI in dermatology
 * Increases awareness around algorithmic bias in clinical tools
 * Inspires responsible ML development by integrating fairness from the ground up
