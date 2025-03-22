@@ -32,18 +32,20 @@
 **Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
 
 ```bash
-# 1. Clone the repository
+# Clone the repository
 git clone https://github.com/your-team/dermatology-ai-ajl.git
 cd dermatology-ai-ajl
 
-# 2. (Optional) Create a virtual environment
+# Create a virtual environment
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# 3. Install dependencies
+# On Windows: venv\Scripts\activate
+source venv/bin/activate
+
+# Install dependencies
 pip install -r requirements.txt
 
-# 4. Run the Jupyter Notebook
+# Run the Jupyter Notebook
 jupyter notebook Copy_of_AJL_Starter_Notebook.ipynb
 ```
 
