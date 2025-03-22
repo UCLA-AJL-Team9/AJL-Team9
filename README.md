@@ -60,9 +60,11 @@ This project is part of the AJL 2025 Kaggle Competition, run in collaboration wi
 **Describe:**
 
 * Dataset: Dermatology images and metadata from the Kaggle competition (train.csv, test.csv)
-* Explored class distributions and imbalances
+* Explored class distributions and imbalances 
 * Planned data augmentation to expand representation
 * Identified potential fairness gaps due to uneven sample counts per condition
+   * There is a risk of model bias towards conditions with more images or conditions more commonly represented
+   * The same goes for uneven image distribution across skin tones - darker skin tones were underrepresented and may not be classified as accurately by the model
 
 **Potential visualizations to include:**
 
