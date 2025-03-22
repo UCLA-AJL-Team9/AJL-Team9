@@ -95,15 +95,6 @@ This project is part of the AJL 2025 Kaggle Competition, run in collaboration wi
 
 ## **🖼️ Impact Narrative**
 
-**Answer the relevant questions below based on your competition:**
-
-**WiDS challenge:**
-
-1. What brain activity patterns are associated with ADHD; are they different between males and females, and, if so, how?
-2. How could your work help contribute to ADHD research and/or clinical care?
-
-**AJL challenge:**
-
 1. What steps did you take to address [model fairness](https://haas.berkeley.edu/wp-content/uploads/What-is-fairness_-EGAL2.pdf)?
 * Applied data augmentation to improve representation of under-sampled skin tones
 * Plan to use a validation strategy that measures performance across different groups
