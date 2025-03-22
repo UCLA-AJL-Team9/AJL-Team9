@@ -23,10 +23,10 @@ We used the official dataset provided on Kaggle for the `bttai-ajl-2025` competi
 
 ## Methods Used
 
-- **Libraries**: TensorFlow/Keras, NumPy, Pandas, Matplotlib
-- **Model**: CNN-based classifier
-- **Data Augmentation**: To combat class imbalance and skin tone variation
-- **Performance Metric**: Accuracy
+**Libraries**: TensorFlow/Keras, NumPy, Pandas, Matplotlib
+**Model**: CNN-based classifier
+**Data Augmentation**: To combat class imbalance and skin tone variation
+**Performance Metric**: Accuracy
 
 ## Getting Started
 
