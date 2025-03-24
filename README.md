@@ -9,8 +9,8 @@
 | Mia Chen | @miachen67 | Data Augmentation, EDA, Model Refinement|
 | Eduard Bueno | @L4S3RB0Y | Baseline Model, EDA, Data Visualizations, README |
 | Jacquelyn Garcia | @JacquelynGarcia | Data Augmentation, EDA, Multiple Model Selection |
-| Leon Ren | @leonren19 | contributions |
-| Parini Gandhi | @pg-19 | contributions |
+| Leon Ren | @leonren19 | Research, Baseline Model |
+| Parini Gandhi | @pg-19 | Research |
 
 ---
 
