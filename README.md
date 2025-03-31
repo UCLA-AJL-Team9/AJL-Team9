@@ -6,9 +6,9 @@
 
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
-| Mia Chen | @miachen67 | Data Augmentation, EDA, Model Refinement|
-| Eduard Bueno | @L4S3RB0Y | Baseline Model, EDA, Data Visualizations, README |
-| Jacquelyn Garcia | @JacquelynGarcia | Data Augmentation, EDA, Multiple Model Selection |
+| Mia Chen | @miachen67 | Research, Initial Model Training, Model Exploration, Data Augmentation|
+| Eduard Bueno | @L4S3RB0Y | Research, Data Augmentation, EDA, Model Exploration |
+| Jacquelyn Garcia | @JacquelynGarcia | Research, Baseline Model, EDA, Data Visualization, README |
 | Leon Ren | @leonren19 | Research, Baseline Model |
 | Parini Gandhi | @pg-19 | Research |
 
