@@ -78,15 +78,10 @@ This project is part of the AJL 2025 Kaggle Competition, run in collaboration wi
 
 ## **📈 Results & Key Findings**
 
-* Early baseline model achieved 0.06105% accuracy
-
-* Next phase includes hyperparameter tuning and deeper model evaluation
-
-* Ongoing analysis of model performance across skin tone groups
-
-**Potential visualizations to include:**
-
-* Confusion matrix, precision-recall curve, feature importance plot, prediction distribution, outputs from fairness or explainability tools
+* Early baseline model achieved 6.10% accuracy
+* Final model submission achieved 8.21% accuracy
+* Resampling of fitzpatrick values helped increase accuracy
+* Lower epoch values allowed model to generalize better and avoid overfitting
 
 ---
 
