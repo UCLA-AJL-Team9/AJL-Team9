@@ -8,7 +8,7 @@
 | ----- | ----- | ----- |
 | Mia Chen | @miachen67 | Research, Initial Model Training, Model Exploration, Data Augmentation|
 | Eduard Bueno | @L4S3RB0Y | Research, Data Augmentation, EDA, Model Exploration |
-| Jacquelyn Garcia | @JacquelynGarcia | Research, Baseline Model, EDA, Data Visualization, README |
+| Jacquelyn Garcia | @JacquelynGarcia | Research, Baseline Model, Initial Model Training, EDA, Data Visualization, README |
 | Leon Ren | @leonren19 | Research, Baseline Model |
 | Parini Gandhi | @pg-19 | Research |
 
