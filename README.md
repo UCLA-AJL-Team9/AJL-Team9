@@ -70,6 +70,7 @@ This project is part of the AJL 2025 Kaggle Competition, run in collaboration wi
 
 * Used CNN - sequential model with Conv2D and MaxPooling layers
 * Data preprocessing with rescaling, resizing, and augmentation
+* Resampling of fitzpatrick values to ensure equal sample sizing
 * Training on ~80% of data, validating on ~20%
 * Evaluation metric: Accuracy
 
