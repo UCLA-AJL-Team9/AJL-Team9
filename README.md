@@ -89,9 +89,8 @@ This project is part of the AJL 2025 Kaggle Competition, run in collaboration wi
 
 ### Model Fairness
 
-* Applied data augmentation to improve representation of under-sampled skin tones
-* Plan to use a validation strategy that measures performance across different groups
-* Incorporated fairness in evaluation planning
+* Applied data augmentation and to improve representation of under-sampled skin tones
+* Implemented resampling to improve accuracy on darker skin tones
 
 ### Broader Impact
 * Enhances equitable AI in dermatology
